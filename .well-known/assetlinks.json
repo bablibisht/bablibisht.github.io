@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "za.co.nedbank.debug",
+    "package_name": "za.co.nedbank",
     "sha256_cert_fingerprints":
     ["06:0D:18:FA:CF:C6:EA:46:16:75:38:1F:40:F3:57:9C:81:01:A9:A4:C0:B6:AB:2A:FB:C9:3B:7C:AF:C1:66:8A"]
   }
